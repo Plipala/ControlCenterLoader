@@ -1,0 +1,9 @@
+Package: com.plipala.controlcenterloader
+Name: ControlCenterLoader
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Bo Lin
+Author: Bo Lin
+Section: Tweaks
